@@ -11,4 +11,4 @@
 | 6    | s1r       | **2**      | 0      | 1         | 0        |
 
 
-This is our current HLTV fantasyleague leaderboard :D
+_This is our current HLTV fantasyleague leaderboard :D_
