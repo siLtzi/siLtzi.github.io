@@ -1,4 +1,4 @@
-#GloriaVictis Fantasy League
+# GloriaVictis Fantasy League
 ## GVFL Leaderboard
 
 | Rank | Name      | Points | Gold 🥇 | Silver 🥈 | Bronze 🥉 |
